@@ -1,2 +1,2 @@
-# UI-Frontend-For-Tahara-Analysis
+# ui-frontend-for-vr-face-recognition
 
